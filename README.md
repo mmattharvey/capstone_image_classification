@@ -2,7 +2,7 @@
 
 General Assembly capstone project: Application of neural networks to image classification of a real-world dataset
 
-Exploration of different modelling technicques to classify images of dogs into breeds.
+Exploration of different modelling techniques to classify images of dogs into breeds.
 
 Files in this repo:
 
