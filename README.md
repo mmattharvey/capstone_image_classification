@@ -6,9 +6,9 @@ Exploration of different modelling techniques to classify images of dogs into br
 
 Files in this repo:
 
-project_report.html: Report write-up summarising findings
+project_report.ipynb: project write-up summarising objectives, approaches, results and conclusions
 
-Sample files:
+Sample files - given the amount of modelling done, I have only included sample files here:
 - sample_dog_pics: of the original 30,000+ images scraped, sample images shown here, both in original and 'cleaned' format
 - dog_pic_cleaning.ipynb: code applying pre-trained neural network to categorise image content and remove non-dog image components from scraped images to arrive at 'cleaned' images
 - dog_clean_pic_simple_modelling_3_breeds_1.ipynb: non-neural network modelling, from logistic regression to support vector machines, on first selection of 3 breeds
