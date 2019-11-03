@@ -6,7 +6,7 @@ Exploration of different modelling techniques to classify images of dogs into br
 
 Files in this repo:
 
-1_project_report.ipynb: project write-up summarising objectives, approaches, results and conclusions
+Project write-up <a href = "https://mmattharvey.github.io/1_project_report.html">here</a>:
 
 Sample files - given the amount of modelling done, I have only included sample files here:
 - sample_dog_pics: of the original 30,000+ images scraped, sample images shown here, both in original and 'cleaned' format
